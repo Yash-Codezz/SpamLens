@@ -4,7 +4,7 @@
 
 SpamLens is an end-to-end machine learning project: a labelled dataset of ~5,500 messages, EDA and feature engineering, a comparison of 7 classification algorithms, and a tuned **Logistic Regression** model served through a **Streamlit** web app.
 
-🔗 **Live demo:** 
+🔗 **Live demo:** https://spam-lens.streamlit.app/
 
 | Accuracy   | Spam Precision | Spam Recall | Spam F1    |
 | ---------- | -------------- | ----------- | ---------- |
